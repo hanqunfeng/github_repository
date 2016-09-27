@@ -6,6 +6,7 @@ public class Common {
 		// TODO Auto-generated method stub
 		System.out.println("无聊");
 		//注释说明
+		System.out.println(123);
 	}
 
 }
