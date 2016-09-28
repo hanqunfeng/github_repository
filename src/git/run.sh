@@ -4,5 +4,6 @@
 ls -al
 
 
-cd /usr/local
+
+
 
